@@ -1,5 +1,6 @@
 {
-     [   {
+    "municipios": [
+        {
             "REGION": "Región Eje Cafetero - Antioquia",
             "DEPARTAMENTO": "Antioquia",
             "MUNICIPIO": "Medellín"
@@ -18,5 +19,9 @@
             "REGION": "Región Eje Cafetero - Antioquia",
             "DEPARTAMENTO": "Antioquia",
             "MUNICIPIO": "Alejandría"
-        }]
-}
+        },
+        {
+            "REGION": "Región Eje Cafetero - Antioquia",
+            "DEPARTAMENTO": "Antioquia",
+            "MUNICIPIO": "Amagá"
+        }]}
