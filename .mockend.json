@@ -1,15 +1,10 @@
 {
     "Medellin":
         {
-            "REGION": "Región Eje Cafetero - Antioquia",
-            "DEPARTAMENTO": "Antioquia",
-            "MUNICIPIO": "Medellín"
-        },
-    "Abejorral":
-        {
-            "REGION": "Región Eje Cafetero - Antioquia",
-            "DEPARTAMENTO": "Antioquia",
-            "MUNICIPIO": "Abejorral"
+            "REGION":{
+                "region":"Región Eje Cafetero - Antioquia"},
+            "DEPARTAMENTO":{
+                "departamento":"Antioquia"},
         } 
 } 
        
