@@ -1,5 +1,5 @@
 {
-    "Municipio": [
+    "Municipio":
         {
             "REGION": "Región Eje Cafetero - Antioquia",
             "DEPARTAMENTO": "Antioquia",
@@ -25,6 +25,6 @@
             "DEPARTAMENTO": "Antioquia",
             "MUNICIPIO": "Amagá"
         }
-            ]
+            
 } 
        
