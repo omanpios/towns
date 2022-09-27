@@ -1,30 +1,15 @@
 {
-    "Municipio":
+    "Medellín":
         {
             "REGION": "Región Eje Cafetero - Antioquia",
             "DEPARTAMENTO": "Antioquia",
             "MUNICIPIO": "Medellín"
         },
+    "Abejorral"
         {
             "REGION": "Región Eje Cafetero - Antioquia",
             "DEPARTAMENTO": "Antioquia",
             "MUNICIPIO": "Abejorral"
-        },
-        {
-            "REGION": "Región Eje Cafetero - Antioquia",
-            "DEPARTAMENTO": "Antioquia",
-            "MUNICIPIO": "Abriaquí"
-        },
-        {
-            "REGION": "Región Eje Cafetero - Antioquia",
-            "DEPARTAMENTO": "Antioquia",
-            "MUNICIPIO": "Alejandría"
-        },
-        {
-            "REGION": "Región Eje Cafetero - Antioquia",
-            "DEPARTAMENTO": "Antioquia",
-            "MUNICIPIO": "Amagá"
-        }
-            
+        } 
 } 
        
