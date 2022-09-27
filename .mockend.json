@@ -1,17 +1,59 @@
 {
-  "City": {
-    "name": {
-      "string": [
-"Alcalá","Andalucía","Ansermanuevo","Argelia","Bolívar","Buenaventura","Buga","Bugalagrande","Caicedonia","Cali","Calima - El Darién","Candelaria","Cartago","Dagua","El Águila","El Cairo","El Cerrito","El Dovio","Florida","Ginebra","Guacarí","Jamundí","La Cumbre","La Unión","La Victoria","Obando","Palmira","Pradera","Restrepo","Riofrío","Roldanillo","San Pedro","Sevilla","Toro","Trujillo","Tuluá","Ulloa","Versalles","Vijes","Yotoco","Yumbo","Zarzal"
-      ]
-    },
-    "visited": {
-      "boolean": {}
-    },
-    "visitedAt: {
-    "dateTime": {
-      "min": "2000-01-01T00:00:00Z",
-      "max": "2022-08-31T23:59:59Z"
+    "City": {
+        "name": {
+            "string": [
+                "Alcalá",
+                "Andalucía",
+                "Ansermanuevo",
+                "Argelia",
+                "Bolívar",
+                "Buenaventura",
+                "Buga",
+                "Bugalagrande",
+                "Caicedonia",
+                "Cali",
+                "Calima - El Darién",
+                "Candelaria",
+                "Cartago",
+                "Dagua",
+                "El Águila",
+                "El Cairo",
+                "El Cerrito",
+                "El Dovio",
+                "Florida",
+                "Ginebra",
+                "Guacarí",
+                "Jamundí",
+                "La Cumbre",
+                "La Unión",
+                "La Victoria",
+                "Obando",
+                "Palmira",
+                "Pradera",
+                "Restrepo",
+                "Riofrío",
+                "Roldanillo",
+                "San Pedro",
+                "Sevilla",
+                "Toro",
+                "Trujillo",
+                "Tuluá",
+                "Ulloa",
+                "Versalles",
+                "Vijes",
+                "Yotoco",
+                "Yumbo",
+                "Zarzal"
+            ]
+        },
+        "visited": {
+            "boolean": {}
+        },
+        "visitedAt": {
+            "dateTime": {
+                "min": "2000-01-01T00:00:00Z",
+                "max": "2022-08-31T23:59:59Z"
+            }
+        }
     }
-  }
-  }
+  
