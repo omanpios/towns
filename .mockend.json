@@ -1,10 +1,4 @@
 {
-    "Medellin":
-        {
-            "REGION":{
-                "region":"Región Eje Cafetero - Antioquia"},
-            "DEPARTAMENTO":{
-                "departamento":"Antioquia"},
-        } 
+    "Medellin":{} 
 } 
        
